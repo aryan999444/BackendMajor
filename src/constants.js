@@ -1,0 +1,1 @@
+export const BD_NAME = "videotube"
